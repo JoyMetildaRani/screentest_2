@@ -13,7 +13,7 @@
     display: block;
     border-bottom: 5px solid #f1f1f1;
    overflow: hidden;
-   height: 15%;
+ 
    width: 100%;
  
 }
@@ -32,7 +32,7 @@
    
     word-spacing: 50px;
     padding-left: 10%;
-    height: 15%;
+ 
     overflow: hidden;
     width: 100%;
     padding-top: 2%;
